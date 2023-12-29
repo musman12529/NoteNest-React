@@ -3,7 +3,7 @@
 NoteNest is a simple note-taking application built using React. It allows users to create, view, and delete notes in a clean and intuitive interface.
 
 ## Link
-Check out the live demo [here](https://musman12529.github.io/NoteNest-React/).
+Check out the live demo (https://musman12529.github.io/NoteNest-React/).
 
 ## Features
 
